@@ -1,0 +1,25 @@
+sj:     #商家登录页面
+  phone:  #手机号
+    id: com.android.bsch.yundianbiz:id/phone_et
+  pas:    #密码
+    id: com.android.bsch.yundianbiz:id/password_et
+  lg:     #登录按钮
+    id: com.android.bsch.yundianbiz:id/login_bt
+  ys:     #授权
+    id: com.android.bsch.yundianbiz:id/user_xiaoping_tv
+  forgetpas:  #商家端忘记密码按钮
+    id: com.android.bsch.yundianbiz:id/register_tv
+
+sjforgetpas:   #商家端忘记密码
+  phone:    #忘记密码手机号
+    id: com.android.bsch.yundianbiz:id/amend_passworld_phone
+  newpas:   #新密码
+    id: com.android.bsch.yundianbiz:id/amend_passworld_passworld
+  newpas1:  #再次输入新密码
+    id: com.android.bsch.yundianbiz:id/amend_passworld_affirm
+  code:     #验证码
+    id: com.android.bsch.yundianbiz:id/amend_passworld_code
+  xg:       #确认修改按钮
+     id: com.android.bsch.yundianbiz:id/amend_passworld_bt
+
+

@@ -1,0 +1,16 @@
+set up:  #设置
+  Setup button:   #设置按钮
+    id:
+  account settings:  #账户设置按钮
+    id: com.android.bsch.yundianbiz:id/store_setting
+
+  Safety Center :   #安全中心按钮
+    id: com.android.bsch.yundianbiz:id/security_center_linear
+  code:             #邀请码按钮
+     id: com.android.bsch.yundianbiz:id/ll_invitation_code
+  about:            #关于我们
+    id: com.android.bsch.yundianbiz:id/about_us
+  attention:        #关注我们
+    id: com.android.bsch.yundianbiz:id/attention_us
+  outlogin:         #退出登录
+    id: com.android.bsch.yundianbiz:id/edit_bt

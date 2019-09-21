@@ -1,0 +1,9 @@
+platformName: Android   #手机设备
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+app: F:\xxxxxxx.apk
+appPackage: com.android.bsch.yundianbiz
+appActivity: .activity.LoginActivity
+noReset: False
+ip: 127.0.0.1
+port: 4723
